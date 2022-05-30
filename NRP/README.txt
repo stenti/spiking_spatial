@@ -1,0 +1,3 @@
+These experiements can be loaded into the Neurorobotics platform version 3.2.0 accessible from the EBRAINS website (https://neurorobotics.net/access-the-nrp.html)
+
+Brain model containing the ehad direction network uses the odometry data from the WhiskEye robot to track its approximate heading in a ring attractor model of head direciton. spikes are plotted in a window showing the current heading as the robot moves. 
